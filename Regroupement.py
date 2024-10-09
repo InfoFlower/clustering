@@ -1,0 +1,15 @@
+Regroupement={'connexion_mois': ['<4',['3', '4', '1', '2']], ['5-10',['5-6', '7-10']], ['>11',['11-20', '>20']], 
+'source_web': [['Referencement',['Moteurs', 'Sites du Portail', 'Sites affluents']], ['Recherche directe',['Accès Direct', 'Notoriété']], ['Marketing'[,'Webmails', 'Email marketing','Affiliation et partenaires', 'Liens Sponsorisés','Publicité']]] 
+'typ_client': ["Reserve d'argent", 'Credit voiture', 'Carte de credit enseigne partenaire', 'Pas client ou ancien client'], 
+'montant_credit': [['>6000'['5.]6000e- 8000e]', '6.]8000e- 12000e]', '7.>12000e']], '2.]1000e- 3000e]', '4.]3000e- 6000e]', '1.<=1000e', '?'], 
+'activite': ['actif', 'inactif', '?'], 
+'anciennete': ['>24 mois',  '12-24m',['<12m',['6m-12m', '- de 6m']], '?'], 
+'utilisation_credit': ['+++', ['++',['++', '+']], '-', '?'], 
+'logmt': ['proprietaire',['Locataire',['Locataire', 'Accession pro', 'Loge chez employeur', 'Autres', 'Loge chez parents']]], 
+'sitfam': ['Marie - Union libre', 'Celibataire', ['Divorce - separe - Veuf',['Divorce - separe', 'Veuf']], 'NR'], 
+'dept': ['Lorraine', 'Aquitaine', 'Auvergne', 'Haute-Normandie', 'Provence-Alpes-Côte-Azur', 'Pays de Loire', 'ile-de-France', 
+'Bretagne', 'Alsace', 'Poitou-Charentes', 'Franche-Comte', 'DOMTOM', 'Nord-Pas-de-Calais', 'Bourgogne', 'Midi-Pyrenees', 
+'Centre', 'Champagne-Ardenne', 'Rhône-Alpes', 'Hors France', 'Picardie', 'Basse-Normandie', 'Languedoc-Roussillon', 'Limousin', 'Corse'], 
+'tr_age': ['26-35 ans', '18-25 ans', '36-45 ans', '56-65 ans', '46-55 ans', ['>66',['66-75 ans', '>=76 ans']], '<18 ans'], 
+'revfyr': ['2000 a 2999', '1000 a 1499', '1500 a 1999', '3000 a 3999', '4000 a 4999', '< 1000', '5000 et plus', 'manquant'], 
+'assurance': ['credit assure', 'credit non assure', '?']}
