@@ -27,3 +27,25 @@ def texte_sans_accent(fichier):
             break
         out += supprime_accent(ligne) + '\n'
     return out
+
+
+
+"""
+a_regrouper={}
+for i in df.columns[1:]:
+    for z in df[i].unique():
+        if z is not None :
+            if df[i].value_counts()[z]<sum(df[i].value_counts())*0.05:
+                if i in a_regrouper.keys():
+                    a_regrouper[i].append(z)
+                else:
+                    a_regrouper[i]=[z]
+ensemble={}
+for i in df.columns[1:]:
+    for z in df[i].unique():
+        if z is not None :
+            if i in ensemble.keys():
+                ensemble[i].append(z)
+            else:
+                ensemble[i]=[z]
+"""
